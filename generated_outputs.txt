@@ -1,0 +1,10 @@
+--- Prompt ---
+Once upon a time
+
+--- Output with Temperature 0.7 ---
+Once upon a time, it was a dream, a vision. It was like the dream was happening. The dream of being a human being was now a nightmare.
+
+The dream grew more complicated. At one point, I tried to break out
+
+--- Output with Temperature 1.0 ---
+Once upon a time, we'll see it is not. Yet there seems to be a strong connection between the various theories that have been proposed or explained regarding the creation of God. At the moment as such, it may seem that a multitude is the
