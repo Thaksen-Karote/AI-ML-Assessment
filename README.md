@@ -53,7 +53,7 @@ This part involves generating text using a GPT-2 model from Hugging Face Transfo
 
 | File | Description |
 |------|-------------|
-| `ML_Assessment.py` | Iris classification code |
+| `ML_Assessment.ipynb` | Iris classification code |
 | `accuracy_graph.png`    | Accuracy vs Epoch graph |
 | `generate.py`          | GPT-2 text generation |
 | `generated_outputs.txt`| Generated text |
